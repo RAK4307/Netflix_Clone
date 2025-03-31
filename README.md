@@ -8,7 +8,6 @@ This is a **Netflix homepage clone** built using **HTML and CSS**. The project f
 - **CSS3** – Styling and responsiveness  
 
 📂 Folder Structure  
-```sh
 Netflix_Clone/
 │── index.html       
 │── style.css         
